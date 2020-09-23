@@ -1,0 +1,13 @@
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\bin\Debug\netcoreapp3.1\ICallBackEjer.exe
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\bin\Debug\netcoreapp3.1\ICallBackEjer.deps.json
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\bin\Debug\netcoreapp3.1\ICallBackEjer.runtimeconfig.json
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\bin\Debug\netcoreapp3.1\ICallBackEjer.runtimeconfig.dev.json
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\bin\Debug\netcoreapp3.1\ICallBackEjer.dll
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\bin\Debug\netcoreapp3.1\ICallBackEjer.pdb
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\obj\Debug\netcoreapp3.1\ICallBackEjer.csprojAssemblyReference.cache
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\obj\Debug\netcoreapp3.1\ICallBackEjer.AssemblyInfoInputs.cache
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\obj\Debug\netcoreapp3.1\ICallBackEjer.AssemblyInfo.cs
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\obj\Debug\netcoreapp3.1\ICallBackEjer.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\obj\Debug\netcoreapp3.1\ICallBackEjer.dll
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\obj\Debug\netcoreapp3.1\ICallBackEjer.pdb
+D:\Escritorio\C#\C# Intermedio\ICallBackEjer\obj\Debug\netcoreapp3.1\ICallBackEjer.genruntimeconfig.cache
